@@ -1,10 +1,10 @@
 # Hackintosh on MSI GE62 6QD
-![z2545276323418_2af81b0476d1a94e2b50b334f82d3411](https://user-images.githubusercontent.com/34858695/121585732-19e2df00-ca5d-11eb-9161-d5f102746903.jpg)
+![image](https://user-images.githubusercontent.com/34858695/188267198-d6a4e1c0-6501-4d63-adc0-353efa7cc380.png)
 
     CPU: i7-6700HQ
     Chipset: HM170
-    Audio: ALC898
-    Wi-Fi: BCM94352Z
+    Audio: ALC899
+    Wi-Fi: Intel
     BIOS: E16J5IMS.11D
     iGPU: Intel HD Graphics 530
     eGPU: GeForce GTX 960M
