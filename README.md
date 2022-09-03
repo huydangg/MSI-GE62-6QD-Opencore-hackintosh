@@ -6,5 +6,6 @@
     Audio: ALC899
     Wi-Fi: Intel
     BIOS: E16J5IMS.11D
+    SSD: WD SN750 500GB
     iGPU: Intel HD Graphics 530
     eGPU: GeForce GTX 960M
